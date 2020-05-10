@@ -90,6 +90,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.renderscript@1.0-impl \
     android.hardware.power.stats@1.0-service.mock
+    
+# RIL
+PRODUCT_PACKAGES += \
+    android.hardware.radio@1.4 \
+    android.hardware.radio.config@1.2 \
+    android.hardware.secure_element@1.0
 
 # RIL
 PRODUCT_PACKAGES += \
