@@ -55,6 +55,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.broadcastradio@1.0-impl \
     android.hardware.broadcastradio@1.0-service
+    
+# RIL
+PRODUCT_PACKAGES += \
+    android.hardware.radio@1.4 \
+    android.hardware.radio.config@1.2 \
+    android.hardware.secure_element@1.0
 
 # WiFi
 PRODUCT_PACKAGES += \
