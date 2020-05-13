@@ -2804,3 +2804,6 @@ vendor/firmware/widevine.b05
 vendor/firmware/widevine.b06
 vendor/firmware/widevine.b07
 vendor/firmware/widevine.mdt
+
+# WiFi
+vendor/bin/cnss-daemon
