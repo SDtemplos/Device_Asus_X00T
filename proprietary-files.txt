@@ -85,6 +85,7 @@ vendor/lib64/libtinycompress.so
 # Audio-FX
 vendor/lib/soundfx/libasphere.so
 vendor/lib/soundfx/libaudiopreprocessing.so
+vendor/lib/soundfx/libicepower.so
 vendor/lib/soundfx/libqcbassboost.so
 vendor/lib/soundfx/libqcreverb.so
 vendor/lib/soundfx/libqcvirt.so
