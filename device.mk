@@ -39,6 +39,7 @@ PRODUCT_PACKAGES += \
     
 # Audio-Extensions
 PRODUCT_PACKAGES += \
+    libcirrusspkrprot \
     libhdmiedid \
     libhdmipassthru \
     libhfp \
